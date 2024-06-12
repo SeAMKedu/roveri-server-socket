@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/813613869.svg)](https://zenodo.org/doi/10.5281/zenodo.11610098)
+
 ![roveri](/images/roveri.svg)
 
 # Roveri-server-socket
@@ -7,7 +9,7 @@ Yksinkertainen socket-palvelin, jonka kautta TurtleBot 4 ja kaksi yhteistyörobo
 ## Sovelluksen ajaminen
 
 ```
-python3 sockserver.py
+$ python3 sockserver.py
 ```
 Palvelimen voi sammuttaa painamalla Ctrl+c.
 
